@@ -1,0 +1,26 @@
+{
+  "name": "thealth",
+  "version": "0.0.0",
+  "homepage": "https://github.com/shkesar/thealth",
+  "authors": [
+    "Shubham Keserwani <shubhamkesar@live.com>"
+  ],
+  "description": "Organisation health analysis using twitter feeds",
+  "main": "index.html",
+  "keywords": [
+    "twitter",
+    "health"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "chartist": "~0.5.0",
+    "bootstrap": "~3.3.1"
+  }
+}

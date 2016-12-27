@@ -1,0 +1,9 @@
+Happy,happy party love 
+Happy,thanks cheerful  
+Sad,gloomy depress nice 
+Sad,upset awful suck 
+Sad,glad suck bored 
+Angry,annoy angry irritate
+Angry,annoy irritate 
+Happy,happy suck good
+Angry,suck hate
